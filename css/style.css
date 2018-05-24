@@ -729,7 +729,7 @@ header {
 
 .form-wrap{
   width: 360px;
-  background: #009933;
+  background: #339966;
   padding: 40px 20px;
   box-sizing: border-box;
   position: fixed;
@@ -747,7 +747,7 @@ h1{
 
 input{
   width: 100%;
-  background: green;
+  background: #d0d0e1;
   border:  1px solid #ffffff;
   border-radius: : 3px;
   padding: 6px 10px;
